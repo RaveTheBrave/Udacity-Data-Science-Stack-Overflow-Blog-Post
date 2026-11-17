@@ -7,6 +7,7 @@ Using responses from the Stack Overflow Developer Survey, I explored three quest
 2. Is AI usage associated with differences in developer salary?
 3. How does AI usage relate to developers’ views about AI threatening their jobs?
 
+## AI Adoption Drops as Experience Increases
 ![AI Adoption by Career Stage](images/ai_adoption_career_stage.png)
 
 AI use was common across every career stage, but adoption declined as professional experience increased.
@@ -15,6 +16,7 @@ About **83.1% of early-career developers** reported using AI tools, compared wit
 
 This suggests that developers earlier in their careers are somewhat more likely to incorporate AI into their work.
 
+## AI Users Did Not Earn More Overall
 ![Developer Salary by AI Adoption](images/salary_ai_adoption.png)
 
 Surprisingly, AI users did not earn more overall.
@@ -24,7 +26,7 @@ The median annual salary for AI users was approximately **$74,772**, compared wi
 However, the difference was small when compared with the wide range of developer salaries in the survey. This suggests that AI usage alone does not explain how much a developer earns. Experience, job role, location, and other factors are likely much more important.
 
 
-
+## AI Users Were Slightly More Concerned About Job Security
 Using AI did not necessarily make developers feel safer about AI’s impact on employment.
 
 Approximately **15.2% of AI users** said AI threatens their current job, compared with **11.2% of non-AI users**. Still, most respondents in both groups said AI was **not** a threat to their current job.
