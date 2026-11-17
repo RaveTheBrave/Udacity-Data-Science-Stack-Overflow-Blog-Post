@@ -15,7 +15,7 @@ About **83.1% of early-career developers** reported using AI tools, compared wit
 
 This suggests that developers earlier in their careers are somewhat more likely to incorporate AI into their work.
 
-
+![Developer Salary by AI Adoption](images/salary_ai_adoption.png)
 
 Surprisingly, AI users did not earn more overall.
 
@@ -29,7 +29,7 @@ Using AI did not necessarily make developers feel safer about AI’s impact on e
 
 Approximately **15.2% of AI users** said AI threatens their current job, compared with **11.2% of non-AI users**. Still, most respondents in both groups said AI was **not** a threat to their current job.
 
-
+![Perception of AI as a Job Threat](images/ai_job_threat.png)
 
 AI has become widely adopted among developers, but its impact is not the same for everyone. Younger-career developers appear more likely to use it, AI usage alone does not lead to higher salaries, and even developers who already use AI can remain concerned about its effect on their careers.
 
