@@ -7,7 +7,7 @@ Using responses from the Stack Overflow Developer Survey, I explored three quest
 2. Is AI usage associated with differences in developer salary?
 3. How does AI usage relate to developers’ views about AI threatening their jobs?
 
-
+![AI Adoption by Career Stage](images/ai_adoption_career_stage.png)
 
 AI use was common across every career stage, but adoption declined as professional experience increased.
 
